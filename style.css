@@ -2,10 +2,18 @@ body {
     background: white;
 }
 
+.navbar {
+    background: #723911;
+}
+
 a {
     color: black;
 }
 
 h1, h2, h3 {
     color: grey;
+}
+
+footer {
+    background: #723911;
 }
