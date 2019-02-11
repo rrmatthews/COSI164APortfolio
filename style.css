@@ -14,6 +14,11 @@ h1, h2, h3 {
     color: grey;
 }
 
+#construction {
+    color: red;
+    text-align: center;
+}
+
 footer {
     background: #723911;
 }
